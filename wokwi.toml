@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/Repeating_Timer.uf2'
+elf = 'build/Repeating_Timer.elf'
