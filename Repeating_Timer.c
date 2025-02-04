@@ -4,10 +4,6 @@
 #include "hardware/clocks.h"
 
 const uint rgb_led[3] = {13,11,12};
-// int64_t alarm_callback(alarm_id_t id, void *user_data) {
-//     // Put your timeout handler code in here
-//     return 0;
-// }
 
 void init_rgb(const uint *rgb)
 {
